@@ -1,10 +1,6 @@
 # Desafio Regressão
 
-Por Marcus Oliveira da Silva
-
-(https://www.youtube.com/watch?v=NC1P4AFTj54)
-
- Contexto analítico
+Contexto analítico
 
 Nesse desafio, você deve resolver um case de precificação de imóveis. Esse desafio foi construído em parceria entre a Tera e o QuintoAndar, onde o objetivo é simular um projeto de machine learning com características semelhantes ao que ocorre no dia a dia da empresa.
 
